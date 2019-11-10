@@ -28,6 +28,6 @@ Fawaz Bukhowa<br />
 ## Instructions:
 - Open Terminal and type:
 ```
-git clone https://github.com/fawazma/FeedReaderTesting.git
+https://github.com/fawazma/FeedReaderTesting.git
 ```
 - Open **index.html**
